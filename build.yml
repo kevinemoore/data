@@ -1,0 +1,1396 @@
+contents:
+  LICENSE:
+    file: LICENSE
+  README:
+    file: QUILT_README.md
+  ahca_polls:
+    README:
+      file: ahca-polls/README.md
+    ahca_polls:
+      file: ahca-polls/ahca_polls.csv
+  airline_safety:
+    README:
+      file: airline-safety/README.md
+    airline_safety:
+      file: airline-safety/airline-safety.csv
+  alcohol_consumption:
+    README:
+      file: alcohol-consumption/README.md
+    drinks:
+      file: alcohol-consumption/drinks.csv
+  antiquities_act:
+    README:
+      file: antiquities-act/README.md
+    actions_under_antiquities_act:
+      file: antiquities-act/actions_under_antiquities_act.csv
+  avengers:
+    README:
+      file: avengers/README.md
+    avengers:
+      file: avengers/avengers.csv
+  bachelorette:
+    README:
+      file: bachelorette/README.md
+    bachelorette:
+      file: bachelorette/bachelorette.csv
+  bad_drivers:
+    README:
+      file: bad-drivers/README.md
+    bad_drivers:
+      file: bad-drivers/bad-drivers.csv
+  bechdel:
+    analyze_bechdel:
+      file: bechdel/analyze-bechdel.R
+    movies:
+      file: bechdel/movies.csv
+  biopics:
+    README:
+      file: biopics/README.md
+    biopics:
+      file: biopics/biopics.csv
+  births:
+    README:
+      file: births/README.md
+    US_births_1994_2003_CDC_NCHS:
+      file: births/US_births_1994-2003_CDC_NCHS.csv
+    US_births_2000_2014_SSA:
+      file: births/US_births_2000-2014_SSA.csv
+  bob_ross:
+    README:
+      file: bob-ross/README.md
+    cluster_paintings:
+      file: bob-ross/cluster-paintings.py
+    elements_by_episode:
+      file: bob-ross/elements-by-episode.csv
+  buster_posey_mvp:
+    README:
+      file: buster-posey-mvp/README.md
+    baseball_imgcap_for_release:
+      file: buster-posey-mvp/baseball_imgcap_for_release.py
+    catcher_framing_capture:
+      file: buster-posey-mvp/catcher_framing_capture.R
+  candy_power_ranking:
+    README:
+      file: candy-power-ranking/README.md
+    candy_data:
+      file: candy-power-ranking/candy-data.csv
+  chess_transfers:
+    README:
+      file: chess-transfers/README.md
+    transfers:
+      file: chess-transfers/transfers.csv
+  classic_rock:
+    classic_rock_raw_data:
+      file: classic-rock/classic-rock-raw-data.csv
+    classic_rock_song_list:
+      file: classic-rock/classic-rock-song-list.csv
+    compiling_radio:
+      file: classic-rock/compiling_radio.py
+    radio:
+      file: classic-rock/radio.py
+    readme:
+      file: classic-rock/readme.md
+  college_majors:
+    all_ages:
+      file: college-majors/all-ages.csv
+    college_majors_rscript:
+      file: college-majors/college-majors-rscript.R
+    grad_students:
+      file: college-majors/grad-students.csv
+    majors_list:
+      file: college-majors/majors-list.csv
+    readme:
+      file: college-majors/readme.md
+    recent_grads:
+      file: college-majors/recent-grads.csv
+    women_stem:
+      file: college-majors/women-stem.csv
+  comic_characters:
+    README:
+      file: comic-characters/README.md
+    dc_wikia_data:
+      file: comic-characters/dc-wikia-data.csv
+    marvel_wikia_data:
+      file: comic-characters/marvel-wikia-data.csv
+  comma_survey:
+    comma_survey:
+      file: comma-survey/comma-survey.csv
+    README:
+      file: comma-survey/README.md
+  congress_age:
+    README:
+      file: congress-age/README.md
+    congress_terms:
+      file: congress-age/congress-terms.csv
+  congress_generic_ballot:
+    README:
+      file: congress-generic-ballot/README.md
+  cousin_marriage:
+    README:
+      file: cousin-marriage/README.md
+    cousin_marriage_data:
+      file: cousin-marriage/cousin-marriage-data.csv
+  daily_show_guests:
+    README:
+      file: daily-show-guests/README.md
+    daily_show_guests:
+      file: daily-show-guests/daily_show_guests.csv
+  democratic_bench:
+    README:
+      file: democratic-bench/README.md
+    democratic_bench:
+      file: democratic-bench/democratic-bench.csv
+  drug_use_by_age:
+    README:
+      file: drug-use-by-age/README.md
+    drug_use_by_age:
+      file: drug-use-by-age/drug-use-by-age.csv
+  early_senate_polls:
+    early_senate_polls:
+      file: early-senate-polls/early-senate-polls.csv
+  elo_blatter:
+    README:
+      file: elo-blatter/README.md
+    elo_blatter:
+      file: elo-blatter/elo_blatter.csv
+  endorsements_june_30:
+    README:
+      file: endorsements-june-30/README.md
+    endorsements_june_30:
+      file: endorsements-june-30/endorsements-june-30.csv
+  fandango:
+    README:
+      file: fandango/README.md
+    fandango_score_comparison:
+      file: fandango/fandango_score_comparison.csv
+    fandango_scrape:
+      file: fandango/fandango_scrape.csv
+  fifa:
+    README:
+      file: fifa/README.md
+    fifa_countries_audience:
+      file: fifa/fifa_countries_audience.csv
+  flying_etiquette_survey:
+    README:
+      file: flying-etiquette-survey/README.md
+    flying_etiquette:
+      file: flying-etiquette-survey/flying-etiquette.csv
+  food_world_cup:
+    food_world_cup_data:
+      file: food-world-cup/food-world-cup-data.csv
+    README:
+      file: food-world-cup/README.md
+  forecast_methodology:
+    README:
+      file: forecast-methodology/README.md
+    historical_senate_predictions:
+      file: forecast-methodology/historical-senate-predictions.csv
+  goose:
+    README:
+      file: goose/README.md
+    goose_rawdata:
+      file: goose/goose_rawdata.csv
+  hate_crimes:
+    README:
+      file: hate-crimes/README.md
+    hate_crimes:
+      file: hate-crimes/hate_crimes.csv
+  hip_hop_candidate_lyrics:
+    README:
+      file: hip-hop-candidate-lyrics/README.md
+    genius_hip_hop_lyrics:
+      file: hip-hop-candidate-lyrics/genius_hip_hop_lyrics.csv
+  historical_ncaa_forecasts:
+    historical_538_ncaa_tournament_model_results:
+      file: historical-ncaa-forecasts/historical-538-ncaa-tournament-model-results.csv
+  inconvenient_sequel:
+    README:
+      file: inconvenient-sequel/README.md
+    ratings:
+      file: inconvenient-sequel/ratings.csv
+  index:
+    file: index.csv
+  infrastructure_jobs:
+    infrastructure_jobs:
+      file: infrastructure-jobs/infrastructure-jobs.R
+    payroll_states:
+      file: infrastructure-jobs/payroll-states.csv
+  librarians:
+    librarians:
+      file: librarians/librarians.R
+    librarians_by_msa:
+      file: librarians/librarians-by-msa.csv
+  love_actually:
+    love_actually_adjacencies:
+      file: love-actually/love_actually_adjacencies.csv
+    love_actually_appearances:
+      file: love-actually/love_actually_appearances.csv
+    readme:
+      file: love-actually/readme.md
+  mad_men:
+    README:
+      file: mad-men/README.md
+    performer_scores:
+      file: mad-men/performer-scores.csv
+    show_data:
+      file: mad-men/show-data.csv
+  male_flight_attendants:
+    README:
+      file: male-flight-attendants/README.md
+    male_flight_attendants:
+      file: male-flight-attendants/male-flight-attendants.tsv
+  march_madness_predictions:
+    README:
+      file: march-madness-predictions/README.md
+    bracket_00:
+      file: march-madness-predictions/bracket-00.csv
+    bracket_01:
+      file: march-madness-predictions/bracket-01.csv
+    bracket_02:
+      file: march-madness-predictions/bracket-02.csv
+    bracket_03:
+      file: march-madness-predictions/bracket-03.csv
+    bracket_04:
+      file: march-madness-predictions/bracket-04.csv
+    bracket_05:
+      file: march-madness-predictions/bracket-05.csv
+    bracket_06:
+      file: march-madness-predictions/bracket-06.csv
+    bracket_07:
+      file: march-madness-predictions/bracket-07.csv
+    bracket_08:
+      file: march-madness-predictions/bracket-08.csv
+    bracket_09:
+      file: march-madness-predictions/bracket-09.csv
+    bracket_10:
+      file: march-madness-predictions/bracket-10.csv
+    bracket_11:
+      file: march-madness-predictions/bracket-11.csv
+    bracket_12:
+      file: march-madness-predictions/bracket-12.csv
+    bracket_13:
+      file: march-madness-predictions/bracket-13.csv
+    bracket_14:
+      file: march-madness-predictions/bracket-14.csv
+    bracket_15:
+      file: march-madness-predictions/bracket-15.csv
+    bracket_16:
+      file: march-madness-predictions/bracket-16.csv
+    bracket_17:
+      file: march-madness-predictions/bracket-17.csv
+    bracket_18:
+      file: march-madness-predictions/bracket-18.csv
+    bracket_19:
+      file: march-madness-predictions/bracket-19.csv
+    bracket_20:
+      file: march-madness-predictions/bracket-20.csv
+    bracket_21:
+      file: march-madness-predictions/bracket-21.csv
+    bracket_22:
+      file: march-madness-predictions/bracket-22.csv
+    bracket_23:
+      file: march-madness-predictions/bracket-23.csv
+    bracket_24:
+      file: march-madness-predictions/bracket-24.csv
+    bracket_25:
+      file: march-madness-predictions/bracket-25.csv
+    bracket_26:
+      file: march-madness-predictions/bracket-26.csv
+    bracket_27:
+      file: march-madness-predictions/bracket-27.csv
+    bracket_28:
+      file: march-madness-predictions/bracket-28.csv
+    bracket_29:
+      file: march-madness-predictions/bracket-29.csv
+    bracket_30:
+      file: march-madness-predictions/bracket-30.csv
+    bracket_31:
+      file: march-madness-predictions/bracket-31.csv
+    bracket_32:
+      file: march-madness-predictions/bracket-32.csv
+    bracket_33:
+      file: march-madness-predictions/bracket-33.csv
+    bracket_34:
+      file: march-madness-predictions/bracket-34.csv
+    bracket_35:
+      file: march-madness-predictions/bracket-35.csv
+    bracket_36:
+      file: march-madness-predictions/bracket-36.csv
+    bracket_37:
+      file: march-madness-predictions/bracket-37.csv
+    bracket_38:
+      file: march-madness-predictions/bracket-38.csv
+    bracket_39:
+      file: march-madness-predictions/bracket-39.csv
+    bracket_40:
+      file: march-madness-predictions/bracket-40.csv
+    bracket_41:
+      file: march-madness-predictions/bracket-41.csv
+    bracket_42:
+      file: march-madness-predictions/bracket-42.csv
+    bracket_43:
+      file: march-madness-predictions/bracket-43.csv
+    bracket_44:
+      file: march-madness-predictions/bracket-44.csv
+    bracket_45:
+      file: march-madness-predictions/bracket-45.csv
+    bracket_46:
+      file: march-madness-predictions/bracket-46.csv
+    bracket_47:
+      file: march-madness-predictions/bracket-47.csv
+    bracket_48:
+      file: march-madness-predictions/bracket-48.csv
+    bracket_49:
+      file: march-madness-predictions/bracket-49.csv
+    bracket_50:
+      file: march-madness-predictions/bracket-50.csv
+    bracket_51:
+      file: march-madness-predictions/bracket-51.csv
+    bracket_52:
+      file: march-madness-predictions/bracket-52.csv
+    bracket_53:
+      file: march-madness-predictions/bracket-53.csv
+    bracket_54:
+      file: march-madness-predictions/bracket-54.csv
+    bracket_55:
+      file: march-madness-predictions/bracket-55.csv
+    bracket_56:
+      file: march-madness-predictions/bracket-56.csv
+    bracket_57:
+      file: march-madness-predictions/bracket-57.csv
+    bracket_58:
+      file: march-madness-predictions/bracket-58.csv
+    bracket_59:
+      file: march-madness-predictions/bracket-59.csv
+    bracket_60:
+      file: march-madness-predictions/bracket-60.csv
+    bracket_61:
+      file: march-madness-predictions/bracket-61.csv
+  march_madness_predictions_2015:
+    README:
+      file: march-madness-predictions-2015/README.md
+    mens:
+      bracket_00:
+        file: march-madness-predictions-2015/mens/bracket-00.tsv
+      bracket_00_no_moore:
+        file: march-madness-predictions-2015/mens/bracket-00-no-moore.tsv
+      bracket_01:
+        file: march-madness-predictions-2015/mens/bracket-01.tsv
+      bracket_02:
+        file: march-madness-predictions-2015/mens/bracket-02.tsv
+      bracket_03:
+        file: march-madness-predictions-2015/mens/bracket-03.tsv
+      bracket_04:
+        file: march-madness-predictions-2015/mens/bracket-04.tsv
+      bracket_05:
+        file: march-madness-predictions-2015/mens/bracket-05.tsv
+      bracket_06:
+        file: march-madness-predictions-2015/mens/bracket-06.tsv
+      bracket_07:
+        file: march-madness-predictions-2015/mens/bracket-07.tsv
+      bracket_08:
+        file: march-madness-predictions-2015/mens/bracket-08.tsv
+      bracket_09:
+        file: march-madness-predictions-2015/mens/bracket-09.tsv
+      bracket_10:
+        file: march-madness-predictions-2015/mens/bracket-10.tsv
+      bracket_11:
+        file: march-madness-predictions-2015/mens/bracket-11.tsv
+      bracket_12:
+        file: march-madness-predictions-2015/mens/bracket-12.tsv
+      bracket_13:
+        file: march-madness-predictions-2015/mens/bracket-13.tsv
+      bracket_14:
+        file: march-madness-predictions-2015/mens/bracket-14.tsv
+      bracket_15:
+        file: march-madness-predictions-2015/mens/bracket-15.tsv
+      bracket_16:
+        file: march-madness-predictions-2015/mens/bracket-16.tsv
+      bracket_17:
+        file: march-madness-predictions-2015/mens/bracket-17.tsv
+      bracket_18:
+        file: march-madness-predictions-2015/mens/bracket-18.tsv
+      bracket_19:
+        file: march-madness-predictions-2015/mens/bracket-19.tsv
+      bracket_20:
+        file: march-madness-predictions-2015/mens/bracket-20.tsv
+      bracket_21:
+        file: march-madness-predictions-2015/mens/bracket-21.tsv
+      bracket_22:
+        file: march-madness-predictions-2015/mens/bracket-22.tsv
+      bracket_23:
+        file: march-madness-predictions-2015/mens/bracket-23.tsv
+      bracket_24:
+        file: march-madness-predictions-2015/mens/bracket-24.tsv
+      bracket_25:
+        file: march-madness-predictions-2015/mens/bracket-25.tsv
+      bracket_26:
+        file: march-madness-predictions-2015/mens/bracket-26.tsv
+      bracket_27:
+        file: march-madness-predictions-2015/mens/bracket-27.tsv
+      bracket_28:
+        file: march-madness-predictions-2015/mens/bracket-28.tsv
+      bracket_29:
+        file: march-madness-predictions-2015/mens/bracket-29.tsv
+      bracket_30:
+        file: march-madness-predictions-2015/mens/bracket-30.tsv
+      bracket_31:
+        file: march-madness-predictions-2015/mens/bracket-31.tsv
+      bracket_32:
+        file: march-madness-predictions-2015/mens/bracket-32.tsv
+      bracket_33:
+        file: march-madness-predictions-2015/mens/bracket-33.tsv
+      bracket_34:
+        file: march-madness-predictions-2015/mens/bracket-34.tsv
+      bracket_35:
+        file: march-madness-predictions-2015/mens/bracket-35.tsv
+      bracket_36:
+        file: march-madness-predictions-2015/mens/bracket-36.tsv
+      bracket_37:
+        file: march-madness-predictions-2015/mens/bracket-37.tsv
+      bracket_38:
+        file: march-madness-predictions-2015/mens/bracket-38.tsv
+      bracket_39:
+        file: march-madness-predictions-2015/mens/bracket-39.tsv
+      bracket_40:
+        file: march-madness-predictions-2015/mens/bracket-40.tsv
+      bracket_41:
+        file: march-madness-predictions-2015/mens/bracket-41.tsv
+      bracket_42:
+        file: march-madness-predictions-2015/mens/bracket-42.tsv
+      bracket_43:
+        file: march-madness-predictions-2015/mens/bracket-43.tsv
+      bracket_44:
+        file: march-madness-predictions-2015/mens/bracket-44.tsv
+      bracket_45:
+        file: march-madness-predictions-2015/mens/bracket-45.tsv
+      bracket_46:
+        file: march-madness-predictions-2015/mens/bracket-46.tsv
+      bracket_47:
+        file: march-madness-predictions-2015/mens/bracket-47.tsv
+      bracket_48:
+        file: march-madness-predictions-2015/mens/bracket-48.tsv
+      bracket_49:
+        file: march-madness-predictions-2015/mens/bracket-49.tsv
+      bracket_50:
+        file: march-madness-predictions-2015/mens/bracket-50.tsv
+      bracket_51:
+        file: march-madness-predictions-2015/mens/bracket-51.tsv
+      bracket_52:
+        file: march-madness-predictions-2015/mens/bracket-52.tsv
+      bracket_53:
+        file: march-madness-predictions-2015/mens/bracket-53.tsv
+      bracket_54:
+        file: march-madness-predictions-2015/mens/bracket-54.tsv
+      bracket_55:
+        file: march-madness-predictions-2015/mens/bracket-55.tsv
+      bracket_56:
+        file: march-madness-predictions-2015/mens/bracket-56.tsv
+      bracket_57:
+        file: march-madness-predictions-2015/mens/bracket-57.tsv
+      bracket_58:
+        file: march-madness-predictions-2015/mens/bracket-58.tsv
+      bracket_59:
+        file: march-madness-predictions-2015/mens/bracket-59.tsv
+      bracket_60:
+        file: march-madness-predictions-2015/mens/bracket-60.tsv
+      bracket_61:
+        file: march-madness-predictions-2015/mens/bracket-61.tsv
+      bracket_62:
+        file: march-madness-predictions-2015/mens/bracket-62.tsv
+      bracket_63:
+        file: march-madness-predictions-2015/mens/bracket-63.tsv
+    womens:
+      bracket_00:
+        file: march-madness-predictions-2015/womens/bracket-00.tsv
+      bracket_01:
+        file: march-madness-predictions-2015/womens/bracket-01.tsv
+      bracket_02:
+        file: march-madness-predictions-2015/womens/bracket-02.tsv
+      bracket_03:
+        file: march-madness-predictions-2015/womens/bracket-03.tsv
+      bracket_04:
+        file: march-madness-predictions-2015/womens/bracket-04.tsv
+      bracket_05:
+        file: march-madness-predictions-2015/womens/bracket-05.tsv
+      bracket_06:
+        file: march-madness-predictions-2015/womens/bracket-06.tsv
+      bracket_07:
+        file: march-madness-predictions-2015/womens/bracket-07.tsv
+      bracket_08:
+        file: march-madness-predictions-2015/womens/bracket-08.tsv
+      bracket_09:
+        file: march-madness-predictions-2015/womens/bracket-09.tsv
+      bracket_10:
+        file: march-madness-predictions-2015/womens/bracket-10.tsv
+      bracket_11:
+        file: march-madness-predictions-2015/womens/bracket-11.tsv
+      bracket_12:
+        file: march-madness-predictions-2015/womens/bracket-12.tsv
+      bracket_13:
+        file: march-madness-predictions-2015/womens/bracket-13.tsv
+      bracket_14:
+        file: march-madness-predictions-2015/womens/bracket-14.tsv
+      bracket_15:
+        file: march-madness-predictions-2015/womens/bracket-15.tsv
+      bracket_16:
+        file: march-madness-predictions-2015/womens/bracket-16.tsv
+      bracket_17:
+        file: march-madness-predictions-2015/womens/bracket-17.tsv
+      bracket_18:
+        file: march-madness-predictions-2015/womens/bracket-18.tsv
+      bracket_19:
+        file: march-madness-predictions-2015/womens/bracket-19.tsv
+      bracket_20:
+        file: march-madness-predictions-2015/womens/bracket-20.tsv
+      bracket_21:
+        file: march-madness-predictions-2015/womens/bracket-21.tsv
+      bracket_22:
+        file: march-madness-predictions-2015/womens/bracket-22.tsv
+      bracket_23:
+        file: march-madness-predictions-2015/womens/bracket-23.tsv
+      bracket_24:
+        file: march-madness-predictions-2015/womens/bracket-24.tsv
+      bracket_25:
+        file: march-madness-predictions-2015/womens/bracket-25.tsv
+      bracket_26:
+        file: march-madness-predictions-2015/womens/bracket-26.tsv
+      bracket_27:
+        file: march-madness-predictions-2015/womens/bracket-27.tsv
+      bracket_28:
+        file: march-madness-predictions-2015/womens/bracket-28.tsv
+      bracket_29:
+        file: march-madness-predictions-2015/womens/bracket-29.tsv
+      bracket_30:
+        file: march-madness-predictions-2015/womens/bracket-30.tsv
+      bracket_31:
+        file: march-madness-predictions-2015/womens/bracket-31.tsv
+  marriage:
+    README:
+      file: marriage/README.md
+    both_sexes:
+      file: marriage/both_sexes.csv
+    divorce:
+      file: marriage/divorce.csv
+    men:
+      file: marriage/men.csv
+    women:
+      file: marriage/women.csv
+  mayweather_mcgregor:
+    README:
+      file: mayweather-mcgregor/README.md
+    tweets:
+      file: mayweather-mcgregor/tweets.csv
+  mlb_allstar_teams:
+    README:
+      file: mlb-allstar-teams/README.md
+    allstar_player_talent:
+      file: mlb-allstar-teams/allstar_player_talent.csv
+    allstar_team_talent:
+      file: mlb-allstar-teams/allstar_team_talent.csv
+  mlb_elo:
+    README:
+      file: mlb-elo/README.md
+  most_common_name:
+    README:
+      file: most-common-name/README.md
+    adjusted_name_combinations_list:
+      file: most-common-name/adjusted-name-combinations-list.csv
+    adjusted_name_combinations_matrix:
+      file: most-common-name/adjusted-name-combinations-matrix.csv
+    adjustments:
+      file: most-common-name/adjustments.csv
+    aging_curve:
+      file: most-common-name/aging-curve.csv
+    independent_name_combinations_by_pop:
+      file: most-common-name/independent-name-combinations-by-pop.csv
+    most_common_name:
+      file: most-common-name/most-common-name.R
+    new_top_firstNames:
+      file: most-common-name/new-top-firstNames.csv
+    new_top_surnames:
+      file: most-common-name/new-top-surnames.csv
+    state_pop:
+      file: most-common-name/state-pop.csv
+    surnames:
+      file: most-common-name/surnames.csv
+  murder_2016:
+    README:
+      file: murder_2016/README.md
+    murder_2015_final:
+      file: murder_2016/murder_2015_final.csv
+    murder_2016_prelim:
+      file: murder_2016/murder_2016_prelim.csv
+  nba_carmelo:
+    README:
+      file: nba-carmelo/README.md
+  nba_draft_2015:
+    README:
+      file: nba-draft-2015/README.md
+    historical_projections:
+      file: nba-draft-2015/historical_projections.csv
+  nba_elo:
+    README:
+      file: nba-elo/README.md
+    nbaallelo:
+      file: nba-elo/nbaallelo.csv
+  nba_tattoos:
+    nba_tattoos_data:
+      file: nba-tattoos/nba-tattoos-data.csv
+  nba_winprobs:
+    nba:
+      file: nba-winprobs/nba.tsv
+    readme:
+      file: nba-winprobs/readme.md
+  nfl_elo:
+    README:
+      file: nfl-elo/README.md
+  nfl_fandom:
+    NFL_fandom_data_google_trends:
+      file: nfl-fandom/NFL_fandom_data-google_trends.csv
+    NFL_fandom_data_surveymonkey:
+      file: nfl-fandom/NFL_fandom_data-surveymonkey.csv
+    README:
+      file: nfl-fandom/README.md
+  nfl_favorite_team:
+    README:
+      file: nfl-favorite-team/README.md
+    team_picking_categories:
+      file: nfl-favorite-team/team-picking-categories.csv
+  nfl_suspensions:
+    README:
+      file: nfl-suspensions/README.md
+    nfl_suspensions_data:
+      file: nfl-suspensions/nfl-suspensions-data.csv
+  nfl_ticket_prices:
+    README:
+      file: nfl-ticket-prices/README.md
+    jets_buyer:
+      file: nfl-ticket-prices/jets-buyer.csv
+    n2014_average_ticket_price:
+      file: nfl-ticket-prices/2014-average-ticket-price.csv
+    national_average:
+      file: nfl-ticket-prices/national-average.csv
+  nfl_wide_receivers:
+    README:
+      file: nfl-wide-receivers/README.md
+    advanced_historical:
+      file: nfl-wide-receivers/advanced-historical.csv
+    try_per_game_aging_curve:
+      file: nfl-wide-receivers/try-per-game-aging-curve.csv
+  nutrition_studies:
+    README:
+      file: nutrition-studies/README.md
+    p_hacking:
+      file: nutrition-studies/p_hacking.R
+    p_values_analysis:
+      file: nutrition-studies/p_values_analysis.csv
+    raw_anonymized_data:
+      file: nutrition-studies/raw_anonymized_data.csv
+  obama_commutations:
+    README:
+      file: obama-commutations/README.md
+    obama_commutation_categories:
+      file: obama-commutations/obama_commutation_categories.ipynb
+    obama_commutations:
+      file: obama-commutations/obama_commutations.csv
+  pew_religions:
+    README:
+      file: pew-religions/README.md
+    Religion_Leah:
+      file: pew-religions/Religion-Leah.py
+    Religion_Leah_py:
+      file: pew-religions/Religion-Leah.py.ipynb
+    current:
+      file: pew-religions/current.csv
+  police_deaths:
+    README:
+      file: police-deaths/README.md
+    all_data:
+      file: police-deaths/all_data.csv
+    clean:
+      file: police-deaths/clean.R
+    clean_data:
+      file: police-deaths/clean_data.csv
+    plot:
+      file: police-deaths/plot.R
+    scrape:
+      file: police-deaths/scrape.R
+  police_killings:
+    README:
+      file: police-killings/README.md
+    police_killings:
+      file: police-killings/police_killings.csv
+  police_locals:
+    README:
+      file: police-locals/README.md
+    police_locals:
+      file: police-locals/police-locals.csv
+  poll_of_pollsters:
+    README:
+      file: poll-of-pollsters/README.md
+    poll_of_pollsters:
+      file: poll-of-pollsters/poll-of-pollsters.tsv
+    poll_of_pollsters_2:
+      file: poll-of-pollsters/poll-of-pollsters-2.tsv
+    poll_of_pollsters_3:
+      file: poll-of-pollsters/poll-of-pollsters-3.tsv
+    poll_of_pollsters_4:
+      file: poll-of-pollsters/poll-of-pollsters-4.tsv
+    poll_of_pollsters_5:
+      file: poll-of-pollsters/poll-of-pollsters-5.tsv
+    poll_of_pollsters_6_iowa:
+      file: poll-of-pollsters/poll-of-pollsters-6-iowa.tsv
+    poll_of_pollsters_7:
+      file: poll-of-pollsters/poll-of-pollsters-7.tsv
+    poll_of_pollsters_anonymous_answers:
+      file: poll-of-pollsters/poll-of-pollsters-anonymous-answers.tsv
+    poll_of_pollsters_anonymous_answers_2:
+      file: poll-of-pollsters/poll-of-pollsters-anonymous-answers-2.tsv
+    poll_of_pollsters_anonymous_answers_3:
+      file: poll-of-pollsters/poll-of-pollsters-anonymous-answers-3.tsv
+    poll_of_pollsters_anonymous_answers_4:
+      file: poll-of-pollsters/poll-of-pollsters-anonymous-answers-4.tsv
+    poll_of_pollsters_anonymous_answers_5:
+      file: poll-of-pollsters/poll-of-pollsters-anonymous-answers-5.tsv
+    poll_of_pollsters_anonymous_answers_6_iowa:
+      file: poll-of-pollsters/poll-of-pollsters-anonymous-answers-6-iowa.tsv
+    poll_of_pollsters_anonymous_answers_7:
+      file: poll-of-pollsters/poll-of-pollsters-anonymous-answers-7.tsv
+  pollster_ratings:
+    n2014:
+      pollster_ratings:
+        file: pollster-ratings/2014/pollster-ratings.tsv
+      pollster_stats_full:
+        file: pollster-ratings/2014/pollster-stats-full.xlsx
+        transform: xlsx
+        skiprows: 1
+      raw_polls:
+        file: pollster-ratings/2014/raw-polls.tsv
+    pollster_ratings:
+      file: pollster-ratings/pollster-ratings.csv
+    pollster_stats_full:
+      file: pollster-ratings/pollster-stats-full.xlsx
+      transform: xlsx
+      skiprows: 1
+    raw_polls:
+      file: pollster-ratings/raw-polls.csv
+    readme:
+      file: pollster-ratings/readme.md
+  potential_candidates:
+    README:
+      file: potential-candidates/README.md
+    n2015_01_14:
+      events:
+        file: potential-candidates/2015_01_14/events.csv
+      statements:
+        file: potential-candidates/2015_01_14/statements.csv
+    n2015_01_30:
+      events:
+        file: potential-candidates/2015_01_30/events.csv
+      statements:
+        file: potential-candidates/2015_01_30/statements.csv
+  presidential_campaign_trail:
+    README:
+      file: presidential-campaign-trail/README.md
+    clinton:
+      file: presidential-campaign-trail/clinton.csv
+    trump:
+      file: presidential-campaign-trail/trump.csv
+  presidential_commencement_speeches:
+    README:
+      file: presidential-commencement-speeches/README.md
+    commencement_speeches:
+      file: presidential-commencement-speeches/commencement_speeches.csv
+  puerto_rico_media:
+    README:
+      file: puerto-rico-media/README.md
+    google_trends:
+      file: puerto-rico-media/google_trends.csv
+    mediacloud_hurricanes:
+      file: puerto-rico-media/mediacloud_hurricanes.csv
+    mediacloud_states:
+      file: puerto-rico-media/mediacloud_states.csv
+    mediacloud_top_online_news:
+      file: puerto-rico-media/mediacloud_top_online_news.csv
+    mediacloud_trump:
+      file: puerto-rico-media/mediacloud_trump.csv
+    tv_hurricanes:
+      file: puerto-rico-media/tv_hurricanes.csv
+    tv_hurricanes_by_network:
+      file: puerto-rico-media/tv_hurricanes_by_network.csv
+    tv_states:
+      file: puerto-rico-media/tv_states.csv
+  pulitzer:
+    pulitzer_circulation_data:
+      file: pulitzer/pulitzer-circulation-data.csv
+  region_survey:
+    MIDWEST:
+      file: region-survey/MIDWEST.csv
+    README:
+      file: region-survey/README.md
+    SOUTH:
+      file: region-survey/SOUTH.csv
+  religion_survey:
+    README:
+      file: religion-survey/README.md
+    religion_survey_results:
+      file: religion-survey/religion-survey-results.csv
+  reluctant_trump:
+    README:
+      file: reluctant-trump/README.md
+    april_survey_responses:
+      file: reluctant-trump/april_survey_responses.xlsx
+    august_survey_responses:
+      file: reluctant-trump/august_survey_responses.xlsx
+    march_survey_responses:
+      file: reluctant-trump/march_survey_responses.xlsx
+    may_survey_questionnaire:
+      file: reluctant-trump/may_survey_questionnaire.pdf
+    may_survey_responses:
+      file: reluctant-trump/may_survey_responses.xlsx
+  repeated_phrases_gop:
+    README:
+      file: repeated-phrases-gop/README.md
+    gop_debate_all:
+      file: repeated-phrases-gop/gop_debate_all.txt
+    robopol2:
+      file: repeated-phrases-gop/robopol2.py
+  riddler_castles:
+    README:
+      file: riddler-castles/README.md
+    castle_solutions:
+      file: riddler-castles/castle-solutions.csv
+    castle_solutions_2:
+      file: riddler-castles/castle-solutions-2.csv
+  riddler_pick_lowest:
+    README:
+      file: riddler-pick-lowest/README.md
+    low_numbers:
+      file: riddler-pick-lowest/low_numbers.csv
+  san_andreas:
+    README:
+      file: san-andreas/README.md
+    earthquake_data:
+      file: san-andreas/earthquake_data.csv
+  sandy_311_calls:
+    Readme:
+      file: sandy-311-calls/Readme.md
+    sandy_311_calls_by_day:
+      file: sandy-311-calls/sandy-311-calls-by-day.csv
+  science_giving:
+    README:
+      file: science-giving/README.md
+    science_federal_giving:
+      file: science-giving/science_federal_giving.csv
+  scrabble_games:
+    README:
+      file: scrabble-games/README.md
+    scrabble_games:
+      file: scrabble-games/scrabble_games.csv
+  sleeping_alone_data:
+    sleeping_alone_data:
+      file: sleeping-alone-data/sleeping-alone-data.csv
+  soccer_spi:
+    README:
+      file: soccer-spi/README.md
+  star_wars_survey:
+    StarWars:
+      file: star-wars-survey/StarWars.csv
+  steak_survey:
+    steak_risk_survey:
+      file: steak-survey/steak-risk-survey.csv
+  study_drugs:
+    README:
+      file: study-drugs/README.md
+    pierson_study_drugs:
+      file: study-drugs/pierson_study_drugs.ipynb
+  subreddit_algebra:
+    computeUserOverlap:
+      file: subreddit-algebra/computeUserOverlap.sql
+    processData:
+      file: subreddit-algebra/processData.sql
+    readme:
+      file: subreddit-algebra/readme.md
+    subredditVectorAnalysis:
+      file: subreddit-algebra/subredditVectorAnalysis.r
+  tarantino:
+    README:
+      file: tarantino/README.md
+    tarantino:
+      file: tarantino/tarantino.csv
+  tennis_time:
+    README:
+      file: tennis-time/README.md
+    events_time:
+      file: tennis-time/events_time.csv
+    players_time:
+      file: tennis-time/players_time.csv
+    serve_times:
+      file: tennis-time/serve_times.csv
+  tenth_circuit:
+    README:
+      file: tenth-circuit/README.md
+    tenth_circuit:
+      file: tenth-circuit/tenth-circuit.csv
+  terrorism:
+    GTD_Codebook_2015Final:
+      file: terrorism/GTD_Codebook_2015Final.pdf
+    README:
+      file: terrorism/README.md
+    country_stats_1993_appendix2:
+      file: terrorism/country_stats_1993_appendix2.csv
+    eu_fatalities:
+      file: terrorism/eu_fatalities.png
+    eu_fatalities_by_country:
+      file: terrorism/eu_fatalities_by_country.png
+    eu_terrorism_fatalities_by_country:
+      file: terrorism/eu_terrorism_fatalities_by_country.csv
+    eu_terrorism_fatalities_by_year:
+      file: terrorism/eu_terrorism_fatalities_by_year.csv
+    france_fatalities:
+      file: terrorism/france_fatalities.png
+    france_terrorism_fatalities_by_year:
+      file: terrorism/france_terrorism_fatalities_by_year.csv
+    paris_terror_analysis:
+      file: terrorism/paris_terror_analysis.R
+  thanksgiving_2015:
+    README:
+      file: thanksgiving-2015/README.md
+    thanksgiving_2015_poll_data:
+      file: thanksgiving-2015/thanksgiving-2015-poll-data.csv
+  trump_approval_ratings:
+    README:
+      file: trump-approval-ratings/README.md
+  trump_news:
+    README:
+      file: trump-news/README.md
+    trump_news_data:
+      file: trump-news/trump_news_data.csv
+  trump_twitter:
+    realDonaldTrump_poll_tweets:
+      file: trump-twitter/realDonaldTrump_poll_tweets.csv
+  trump_world_trust:
+    README:
+      file: trump-world-trust/README.md
+    TRUMPWORLD_issue_1:
+      file: trump-world-trust/TRUMPWORLD-issue-1.csv
+    TRUMPWORLD_issue_2:
+      file: trump-world-trust/TRUMPWORLD-issue-2.csv
+    TRUMPWORLD_issue_3:
+      file: trump-world-trust/TRUMPWORLD-issue-3.csv
+    TRUMPWORLD_issue_4:
+      file: trump-world-trust/TRUMPWORLD-issue-4.csv
+    TRUMPWORLD_issue_5:
+      file: trump-world-trust/TRUMPWORLD-issue-5.csv
+    TRUMPWORLD_pres:
+      file: trump-world-trust/TRUMPWORLD-pres.csv
+    TRUMPWORLD_us:
+      file: trump-world-trust/TRUMPWORLD-us.csv
+  twitter_ratio:
+    BarackObama:
+      file: twitter-ratio/BarackObama.csv
+    README:
+      file: twitter-ratio/README.md
+    realDonaldTrump:
+      file: twitter-ratio/realDonaldTrump.csv
+    senators:
+      file: twitter-ratio/senators.csv
+  undefeated_boxers:
+    README:
+      file: undefeated-boxers/README.md
+    undefeated:
+      file: undefeated-boxers/undefeated.csv
+  unisex_names:
+    README:
+      file: unisex-names/README.md
+    aging_curve:
+      file: unisex-names/aging_curve.csv
+    unisex_names:
+      file: unisex-names/unisex_names.R
+    unisex_names_table:
+      file: unisex-names/unisex_names_table.csv
+  us_weather_history:
+    KCLT:
+      file: us-weather-history/KCLT.csv
+    KCQT:
+      file: us-weather-history/KCQT.csv
+    KHOU:
+      file: us-weather-history/KHOU.csv
+    KIND:
+      file: us-weather-history/KIND.csv
+    KJAX:
+      file: us-weather-history/KJAX.csv
+    KMDW:
+      file: us-weather-history/KMDW.csv
+    KNYC:
+      file: us-weather-history/KNYC.csv
+    KPHL:
+      file: us-weather-history/KPHL.csv
+    KPHX:
+      file: us-weather-history/KPHX.csv
+    KSEA:
+      file: us-weather-history/KSEA.csv
+    README:
+      file: us-weather-history/README.md
+    visualize_weather:
+      file: us-weather-history/visualize_weather.py
+    wunderground_parser:
+      file: us-weather-history/wunderground_parser.py
+    wunderground_scraper:
+      file: us-weather-history/wunderground_scraper.py
+  weather_check:
+    README:
+      file: weather-check/README.md
+    weather_check:
+      file: weather-check/weather-check.csv
+  womens_world_cup_predictions:
+    README:
+      file: womens-world-cup-predictions/README.md
+    wwc_forecast_20150602_093000:
+      file: womens-world-cup-predictions/wwc-forecast-20150602-093000.csv
+    wwc_forecast_20150606_200029:
+      file: womens-world-cup-predictions/wwc-forecast-20150606-200029.csv
+    wwc_forecast_20150606_230045:
+      file: womens-world-cup-predictions/wwc-forecast-20150606-230045.csv
+    wwc_forecast_20150607_150137:
+      file: womens-world-cup-predictions/wwc-forecast-20150607-150137.csv
+    wwc_forecast_20150607_180420:
+      file: womens-world-cup-predictions/wwc-forecast-20150607-180420.csv
+    wwc_forecast_20150608_175420:
+      file: womens-world-cup-predictions/wwc-forecast-20150608-175420.csv
+    wwc_forecast_20150608_210138:
+      file: womens-world-cup-predictions/wwc-forecast-20150608-210138.csv
+    wwc_forecast_20150608_212619:
+      file: womens-world-cup-predictions/wwc-forecast-20150608-212619.csv
+    wwc_forecast_20150608_235509:
+      file: womens-world-cup-predictions/wwc-forecast-20150608-235509.csv
+    wwc_forecast_20150609_145605:
+      file: womens-world-cup-predictions/wwc-forecast-20150609-145605.csv
+    wwc_forecast_20150609_175933:
+      file: womens-world-cup-predictions/wwc-forecast-20150609-175933.csv
+    wwc_forecast_20150609_205725:
+      file: womens-world-cup-predictions/wwc-forecast-20150609-205725.csv
+    wwc_forecast_20150611_182114:
+      file: womens-world-cup-predictions/wwc-forecast-20150611-182114.csv
+    wwc_forecast_20150611_200059:
+      file: womens-world-cup-predictions/wwc-forecast-20150611-200059.csv
+    wwc_forecast_20150611_210229:
+      file: womens-world-cup-predictions/wwc-forecast-20150611-210229.csv
+    wwc_forecast_20150611_232844:
+      file: womens-world-cup-predictions/wwc-forecast-20150611-232844.csv
+    wwc_forecast_20150612_185329:
+      file: womens-world-cup-predictions/wwc-forecast-20150612-185329.csv
+    wwc_forecast_20150612_205525:
+      file: womens-world-cup-predictions/wwc-forecast-20150612-205525.csv
+    wwc_forecast_20150612_215533:
+      file: womens-world-cup-predictions/wwc-forecast-20150612-215533.csv
+    wwc_forecast_20150612_235650:
+      file: womens-world-cup-predictions/wwc-forecast-20150612-235650.csv
+    wwc_forecast_20150613_145639:
+      file: womens-world-cup-predictions/wwc-forecast-20150613-145639.csv
+    wwc_forecast_20150613_175552:
+      file: womens-world-cup-predictions/wwc-forecast-20150613-175552.csv
+    wwc_forecast_20150613_205441:
+      file: womens-world-cup-predictions/wwc-forecast-20150613-205441.csv
+    wwc_forecast_20150615_175745:
+      file: womens-world-cup-predictions/wwc-forecast-20150615-175745.csv
+    wwc_forecast_20150615_213540:
+      file: womens-world-cup-predictions/wwc-forecast-20150615-213540.csv
+    wwc_forecast_20150616_190139:
+      file: womens-world-cup-predictions/wwc-forecast-20150616-190139.csv
+    wwc_forecast_20150616_220036:
+      file: womens-world-cup-predictions/wwc-forecast-20150616-220036.csv
+    wwc_forecast_20150617_175941:
+      file: womens-world-cup-predictions/wwc-forecast-20150617-175941.csv
+    wwc_forecast_20150617_210614:
+      file: womens-world-cup-predictions/wwc-forecast-20150617-210614.csv
+    wwc_forecast_20150620_180614:
+      file: womens-world-cup-predictions/wwc-forecast-20150620-180614.csv
+    wwc_forecast_20150620_213513:
+      file: womens-world-cup-predictions/wwc-forecast-20150620-213513.csv
+    wwc_forecast_20150621_145724:
+      file: womens-world-cup-predictions/wwc-forecast-20150621-145724.csv
+    wwc_forecast_20150621_175918:
+      file: womens-world-cup-predictions/wwc-forecast-20150621-175918.csv
+    wwc_forecast_20150621_213134:
+      file: womens-world-cup-predictions/wwc-forecast-20150621-213134.csv
+    wwc_forecast_20150622_185345:
+      file: womens-world-cup-predictions/wwc-forecast-20150622-185345.csv
+    wwc_forecast_20150622_215702:
+      file: womens-world-cup-predictions/wwc-forecast-20150622-215702.csv
+    wwc_forecast_20150623_235546:
+      file: womens-world-cup-predictions/wwc-forecast-20150623-235546.csv
+    wwc_forecast_20150626_184421:
+      file: womens-world-cup-predictions/wwc-forecast-20150626-184421.csv
+    wwc_forecast_20150626_212544:
+      file: womens-world-cup-predictions/wwc-forecast-20150626-212544.csv
+    wwc_forecast_20150627_180119:
+      file: womens-world-cup-predictions/wwc-forecast-20150627-180119.csv
+    wwc_forecast_20150627_213532:
+      file: womens-world-cup-predictions/wwc-forecast-20150627-213532.csv
+    wwc_forecast_20150630_210243:
+      file: womens-world-cup-predictions/wwc-forecast-20150630-210243.csv
+    wwc_forecast_20150701_205548:
+      file: womens-world-cup-predictions/wwc-forecast-20150701-205548.csv
+    wwc_forecast_20150705_205539:
+      file: womens-world-cup-predictions/wwc-forecast-20150705-205539.csv
+    wwc_matches_20150602_093000:
+      file: womens-world-cup-predictions/wwc-matches-20150602-093000.csv
+    wwc_matches_20150606_200029:
+      file: womens-world-cup-predictions/wwc-matches-20150606-200029.csv
+    wwc_matches_20150606_230045:
+      file: womens-world-cup-predictions/wwc-matches-20150606-230045.csv
+    wwc_matches_20150607_150137:
+      file: womens-world-cup-predictions/wwc-matches-20150607-150137.csv
+    wwc_matches_20150607_180420:
+      file: womens-world-cup-predictions/wwc-matches-20150607-180420.csv
+    wwc_matches_20150608_175420:
+      file: womens-world-cup-predictions/wwc-matches-20150608-175420.csv
+    wwc_matches_20150608_210138:
+      file: womens-world-cup-predictions/wwc-matches-20150608-210138.csv
+    wwc_matches_20150608_212619:
+      file: womens-world-cup-predictions/wwc-matches-20150608-212619.csv
+    wwc_matches_20150608_235509:
+      file: womens-world-cup-predictions/wwc-matches-20150608-235509.csv
+    wwc_matches_20150609_145605:
+      file: womens-world-cup-predictions/wwc-matches-20150609-145605.csv
+    wwc_matches_20150609_175933:
+      file: womens-world-cup-predictions/wwc-matches-20150609-175933.csv
+    wwc_matches_20150609_205725:
+      file: womens-world-cup-predictions/wwc-matches-20150609-205725.csv
+    wwc_matches_20150611_182114:
+      file: womens-world-cup-predictions/wwc-matches-20150611-182114.csv
+    wwc_matches_20150611_200059:
+      file: womens-world-cup-predictions/wwc-matches-20150611-200059.csv
+    wwc_matches_20150611_210229:
+      file: womens-world-cup-predictions/wwc-matches-20150611-210229.csv
+    wwc_matches_20150611_232844:
+      file: womens-world-cup-predictions/wwc-matches-20150611-232844.csv
+    wwc_matches_20150612_185329:
+      file: womens-world-cup-predictions/wwc-matches-20150612-185329.csv
+    wwc_matches_20150612_205525:
+      file: womens-world-cup-predictions/wwc-matches-20150612-205525.csv
+    wwc_matches_20150612_215533:
+      file: womens-world-cup-predictions/wwc-matches-20150612-215533.csv
+    wwc_matches_20150612_235650:
+      file: womens-world-cup-predictions/wwc-matches-20150612-235650.csv
+    wwc_matches_20150613_145639:
+      file: womens-world-cup-predictions/wwc-matches-20150613-145639.csv
+    wwc_matches_20150613_175552:
+      file: womens-world-cup-predictions/wwc-matches-20150613-175552.csv
+    wwc_matches_20150613_205441:
+      file: womens-world-cup-predictions/wwc-matches-20150613-205441.csv
+    wwc_matches_20150615_175745:
+      file: womens-world-cup-predictions/wwc-matches-20150615-175745.csv
+    wwc_matches_20150615_213540:
+      file: womens-world-cup-predictions/wwc-matches-20150615-213540.csv
+    wwc_matches_20150616_190139:
+      file: womens-world-cup-predictions/wwc-matches-20150616-190139.csv
+    wwc_matches_20150616_220036:
+      file: womens-world-cup-predictions/wwc-matches-20150616-220036.csv
+    wwc_matches_20150617_175941:
+      file: womens-world-cup-predictions/wwc-matches-20150617-175941.csv
+    wwc_matches_20150617_210614:
+      file: womens-world-cup-predictions/wwc-matches-20150617-210614.csv
+    wwc_matches_20150620_180614:
+      file: womens-world-cup-predictions/wwc-matches-20150620-180614.csv
+    wwc_matches_20150620_213513:
+      file: womens-world-cup-predictions/wwc-matches-20150620-213513.csv
+    wwc_matches_20150621_145724:
+      file: womens-world-cup-predictions/wwc-matches-20150621-145724.csv
+    wwc_matches_20150621_175918:
+      file: womens-world-cup-predictions/wwc-matches-20150621-175918.csv
+    wwc_matches_20150621_213134:
+      file: womens-world-cup-predictions/wwc-matches-20150621-213134.csv
+    wwc_matches_20150622_185345:
+      file: womens-world-cup-predictions/wwc-matches-20150622-185345.csv
+    wwc_matches_20150622_215702:
+      file: womens-world-cup-predictions/wwc-matches-20150622-215702.csv
+    wwc_matches_20150623_235546:
+      file: womens-world-cup-predictions/wwc-matches-20150623-235546.csv
+    wwc_matches_20150626_184421:
+      file: womens-world-cup-predictions/wwc-matches-20150626-184421.csv
+    wwc_matches_20150626_212544:
+      file: womens-world-cup-predictions/wwc-matches-20150626-212544.csv
+    wwc_matches_20150627_180119:
+      file: womens-world-cup-predictions/wwc-matches-20150627-180119.csv
+    wwc_matches_20150627_213532:
+      file: womens-world-cup-predictions/wwc-matches-20150627-213532.csv
+    wwc_matches_20150630_210243:
+      file: womens-world-cup-predictions/wwc-matches-20150630-210243.csv
+    wwc_matches_20150701_205548:
+      file: womens-world-cup-predictions/wwc-matches-20150701-205548.csv
+    wwc_matches_20150705_205539:
+      file: womens-world-cup-predictions/wwc-matches-20150705-205539.csv
+  world_cup_predictions:
+    README:
+      file: world-cup-predictions/README.md
+    wc_20140609_140000:
+      file: world-cup-predictions/wc-20140609-140000.csv
+    wc_20140611_132709:
+      file: world-cup-predictions/wc-20140611-132709.csv
+    wc_20140612_094254:
+      file: world-cup-predictions/wc-20140612-094254.csv
+    wc_20140612_220228:
+      file: world-cup-predictions/wc-20140612-220228.csv
+    wc_20140613_091928:
+      file: world-cup-predictions/wc-20140613-091928.csv
+    wc_20140613_180212:
+      file: world-cup-predictions/wc-20140613-180212.csv
+    wc_20140613_205820:
+      file: world-cup-predictions/wc-20140613-205820.csv
+    wc_20140614_000045:
+      file: world-cup-predictions/wc-20140614-000045.csv
+    wc_20140614_091756:
+      file: world-cup-predictions/wc-20140614-091756.csv
+    wc_20140614_180027:
+      file: world-cup-predictions/wc-20140614-180027.csv
+    wc_20140614_210740:
+      file: world-cup-predictions/wc-20140614-210740.csv
+    wc_20140615_001554:
+      file: world-cup-predictions/wc-20140615-001554.csv
+    wc_20140615_030217:
+      file: world-cup-predictions/wc-20140615-030217.csv
+    wc_20140615_092237:
+      file: world-cup-predictions/wc-20140615-092237.csv
+    wc_20140615_180820:
+      file: world-cup-predictions/wc-20140615-180820.csv
+    wc_20140615_210736:
+      file: world-cup-predictions/wc-20140615-210736.csv
+    wc_20140616_100604:
+      file: world-cup-predictions/wc-20140616-100604.csv
+    wc_20140616_182949:
+      file: world-cup-predictions/wc-20140616-182949.csv
+    wc_20140616_185551:
+      file: world-cup-predictions/wc-20140616-185551.csv
+    wc_20140616_205307:
+      file: world-cup-predictions/wc-20140616-205307.csv
+    wc_20140617_000315:
+      file: world-cup-predictions/wc-20140617-000315.csv
+    wc_20140617_091836:
+      file: world-cup-predictions/wc-20140617-091836.csv
+    wc_20140617_175702:
+      file: world-cup-predictions/wc-20140617-175702.csv
+    wc_20140617_205249:
+      file: world-cup-predictions/wc-20140617-205249.csv
+    wc_20140617_235154:
+      file: world-cup-predictions/wc-20140617-235154.csv
+    wc_20140618_100110:
+      file: world-cup-predictions/wc-20140618-100110.csv
+    wc_20140618_175722:
+      file: world-cup-predictions/wc-20140618-175722.csv
+    wc_20140618_210231:
+      file: world-cup-predictions/wc-20140618-210231.csv
+    wc_20140618_235413:
+      file: world-cup-predictions/wc-20140618-235413.csv
+    wc_20140619_091907:
+      file: world-cup-predictions/wc-20140619-091907.csv
+    wc_20140619_180248:
+      file: world-cup-predictions/wc-20140619-180248.csv
+    wc_20140619_205931:
+      file: world-cup-predictions/wc-20140619-205931.csv
+    wc_20140619_235903:
+      file: world-cup-predictions/wc-20140619-235903.csv
+    wc_20140620_094015:
+      file: world-cup-predictions/wc-20140620-094015.csv
+    wc_20140620_175706:
+      file: world-cup-predictions/wc-20140620-175706.csv
+    wc_20140620_205534:
+      file: world-cup-predictions/wc-20140620-205534.csv
+    wc_20140620_235753:
+      file: world-cup-predictions/wc-20140620-235753.csv
+    wc_20140621_092639:
+      file: world-cup-predictions/wc-20140621-092639.csv
+    wc_20140621_175630:
+      file: world-cup-predictions/wc-20140621-175630.csv
+    wc_20140621_205738:
+      file: world-cup-predictions/wc-20140621-205738.csv
+    wc_20140621_235521:
+      file: world-cup-predictions/wc-20140621-235521.csv
+    wc_20140622_091255:
+      file: world-cup-predictions/wc-20140622-091255.csv
+    wc_20140622_175429:
+      file: world-cup-predictions/wc-20140622-175429.csv
+    wc_20140622_205351:
+      file: world-cup-predictions/wc-20140622-205351.csv
+    wc_20140622_235721:
+      file: world-cup-predictions/wc-20140622-235721.csv
+    wc_20140623_095120:
+      file: world-cup-predictions/wc-20140623-095120.csv
+    wc_20140623_175427:
+      file: world-cup-predictions/wc-20140623-175427.csv
+    wc_20140623_220333:
+      file: world-cup-predictions/wc-20140623-220333.csv
+    wc_20140624_100611:
+      file: world-cup-predictions/wc-20140624-100611.csv
+    wc_20140624_181518:
+      file: world-cup-predictions/wc-20140624-181518.csv
+    wc_20140625_091929:
+      file: world-cup-predictions/wc-20140625-091929.csv
+    wc_20140625_180355:
+      file: world-cup-predictions/wc-20140625-180355.csv
+    wc_20140625_220012:
+      file: world-cup-predictions/wc-20140625-220012.csv
+    wc_20140626_095930:
+      file: world-cup-predictions/wc-20140626-095930.csv
+    wc_20140626_180150:
+      file: world-cup-predictions/wc-20140626-180150.csv
+    wc_20140626_221022:
+      file: world-cup-predictions/wc-20140626-221022.csv
+    wc_20140627_100126:
+      file: world-cup-predictions/wc-20140627-100126.csv
+    wc_20140628_094211:
+      file: world-cup-predictions/wc-20140628-094211.csv
+    wc_20140628_185951:
+      file: world-cup-predictions/wc-20140628-185951.csv
+    wc_20140628_215357:
+      file: world-cup-predictions/wc-20140628-215357.csv
+    wc_20140629_091813:
+      file: world-cup-predictions/wc-20140629-091813.csv
+    wc_20140629_180901:
+      file: world-cup-predictions/wc-20140629-180901.csv
+    wc_20140629_225940:
+      file: world-cup-predictions/wc-20140629-225940.csv
+    wc_20140630_095330:
+      file: world-cup-predictions/wc-20140630-095330.csv
+    wc_20140630_175910:
+      file: world-cup-predictions/wc-20140630-175910.csv
+    wc_20140630_223910:
+      file: world-cup-predictions/wc-20140630-223910.csv
+    wc_20140701_092605:
+      file: world-cup-predictions/wc-20140701-092605.csv
+    wc_20140701_184332:
+      file: world-cup-predictions/wc-20140701-184332.csv
+    wc_20140701_224103:
+      file: world-cup-predictions/wc-20140701-224103.csv
+    wc_20140702_094046:
+      file: world-cup-predictions/wc-20140702-094046.csv
+    wc_20140703_094053:
+      file: world-cup-predictions/wc-20140703-094053.csv
+    wc_20140704_180211:
+      file: world-cup-predictions/wc-20140704-180211.csv
+    wc_20140704_220110:
+      file: world-cup-predictions/wc-20140704-220110.csv
+    wc_20140705_093245:
+      file: world-cup-predictions/wc-20140705-093245.csv
+    wc_20140705_225331:
+      file: world-cup-predictions/wc-20140705-225331.csv
+    wc_20140706_091537:
+      file: world-cup-predictions/wc-20140706-091537.csv
+    wc_20140707_100337:
+      file: world-cup-predictions/wc-20140707-100337.csv
+    wc_20140708_092538:
+      file: world-cup-predictions/wc-20140708-092538.csv
+    wc_20140708_215459:
+      file: world-cup-predictions/wc-20140708-215459.csv
+    wc_20140709_095047:
+      file: world-cup-predictions/wc-20140709-095047.csv
+    wc_20140709_231617:
+      file: world-cup-predictions/wc-20140709-231617.csv
+    wc_20140710_164509:
+      file: world-cup-predictions/wc-20140710-164509.csv
+    wc_20140711_102258:
+      file: world-cup-predictions/wc-20140711-102258.csv
+    wc_20140713_113900:
+      file: world-cup-predictions/wc-20140713-113900.csv
