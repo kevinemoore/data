@@ -1,5 +1,7 @@
 Built from [538's data repo](https://github.com/fivethirtyeight/data).
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kevinemoore/data.git/quilt-buildfile?filepath=FiveThirtyEight_Quilt_Example.ipynb)
+
 # From the 538 team
 This repository contains a selection of the data -- and the data-processing scripts -- behind the articles, graphics and interactives at [FiveThirtyEight](http://fivethirtyeight.com).
 
